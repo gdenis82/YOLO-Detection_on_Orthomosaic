@@ -114,5 +114,6 @@ The module provides several configuration options:
 ## Credits
 
 This module is based on:
+
 - [Agisoft Metashape Scripts](https://github.com/agisoft-llc/metashape-scripts/blob/master/src/detect_objects.py)
 - [Ultralytics YOLO Documentation](https://docs.ultralytics.com/)

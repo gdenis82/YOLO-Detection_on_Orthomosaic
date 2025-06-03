@@ -15,6 +15,7 @@
 # ```
 #  - cd \d %programfiles%\Agisoft\python
 #  - python.exe -m pip install --upgrade pip
+
 # ```
 # 2. Add this script to auto-launch, copy script to folder yolo11_detected to %programfiles%\Agisoft\modules and copy script run_scripts.py to C:/Users/<username>/AppData/Local/Agisoft/Metashape Pro/scripts/
 # 3. Restart Metashape.
